@@ -2,6 +2,6 @@ import React from "react";
 import ReactDOM from "react-dom";
 import "./Header/index.module.css";
 
-import Profile from "./Profile";
+import App from "./App";
 
-ReactDOM.render(<Profile />, document.getElementById("root"));
+ReactDOM.render(<App />, document.getElementById("root"));

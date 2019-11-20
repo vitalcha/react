@@ -30,6 +30,11 @@
   margin: 10px;
 }
 
+
+
+.item:nth-last-of-type(2n){
+  background-color:red;
+}
 .item:hover {
   background-color: rgba(231, 199, 15, 0.945);
 }
